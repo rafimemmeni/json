@@ -1,6 +1,4 @@
-[{
-   "partnumber":"sdfl",
-   "p/ndescription":"sdfsd",
+{
    "data":[
       {
          "2018":1000,
@@ -45,4 +43,4 @@
          "Category":"OVC(%)"
       }
    ]
-}]
+}
