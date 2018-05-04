@@ -1,9 +1,5 @@
 {   
-"part_number":"F04FA0795",
-    "part_desc":"ECUP 4ch Gen5 R-N CMF-C",
-    "Category":"Sales",    
-    "v_unit":"k EUR", 
-    "volumes":[
+ "volumes":[
         {
             "year":2015,
             "volume":0
