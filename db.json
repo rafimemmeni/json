@@ -1,57 +1,6 @@
-[
+
    {
       "part_number":"F04FA07950",
-      "part_desc":"ECUP 4ch Gen5 R-N CMF-C",
-      "v_unit":"K",
-      "revs_id":3037,
-      "calc_time_frame":10,
-      "start_planning_year":2015,
-      "gb_calculating_years":5,
-      "scen_id":3349,
-      "lsh_id":9551,
-      "prod_id":2002,
-      "vprp_id":11415,
-      "volumes":[
-         {
-            "year":2015,
-            "volume":0
-         },
-         {
-            "year":2016,
-            "volume":0
-         },
-         {
-            "year":2017,
-            "volume":0
-         },
-         {
-            "year":2018,
-            "volume":17555
-         },
-         {
-            "year":2019,
-            "volume":96957
-         },
-         {
-            "year":2020,
-            "volume":150864
-         },
-         {
-            "year":2021,
-            "volume":129223
-         },
-         {
-            "year":2022,
-            "volume":117595
-         },
-         {
-            "year":2023,
-            "volume":0
-         },
-         {
-            "year":2024,
-            "volume":0
-         }
-      ]
+     
    }
-]
+
