@@ -1,9 +1,4 @@
-[
-   {
-"part_number":"0265150315",
-"part_desc":"ECUP 4ch Gen5 R-N CMF-C",
-"Catagory" : "Sales",
-"v_unit":"K EUR",
+{
 "volumes":[
       {
          "year":2015,
@@ -47,4 +42,4 @@
       }
    ]
 }
-]
+
