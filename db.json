@@ -1,10 +1,8 @@
 {
-    "Partnumber": {
-        "Description": "example glossary",
-		"Volume": {
-            "2018": "S",
-			"2019": "S",
-			"2020": "S",
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
 			"GlossList": {
                 "GlossEntry": {
                     "ID": "SGML",
@@ -21,4 +19,4 @@
             }
         }
     }
-} 
+}
